@@ -8,11 +8,11 @@ MSG_HASH(
       )
 MSG_HASH(
       MSG_DEVICE_DISCONNECTED_FROM_PORT,
-      "Device disconnected from port"
+      "Connexion au port perdu"
       )
 MSG_HASH(
       MSG_UNKNOWN_NETPLAY_COMMAND_RECEIVED,
-      "Unknown netplay command received"
+      "Commande netplay non reconnu"
       )
 MSG_HASH(
       MSG_FILE_ALREADY_EXISTS_SAVING_TO_BACKUP_BUFFER,
@@ -40,7 +40,7 @@ MSG_HASH(
       )
 MSG_HASH(
       MSG_WAITING_FOR_CLIENT,
-      "Waiting for client ..."
+      "En attente de client ..."
       )
 MSG_HASH(
       MENU_ENUM_SUBLABEL_VIDEO_SHARED_CONTEXT,
@@ -60,11 +60,11 @@ MSG_HASH(
       )
 MSG_HASH(
       MSG_AUDIO_VOLUME,
-      "Audio volume"
+      "Volume audio"
       )
 MSG_HASH(
       MSG_AUTODETECT,
-      "Autodetect"
+      "Autodetection"
       )
 MSG_HASH(
       MSG_AUTOLOADING_SAVESTATE_FROM,
@@ -76,11 +76,11 @@ MSG_HASH(
       )
 MSG_HASH(
       MSG_CONNECTING_TO_NETPLAY_HOST,
-      "Connecting to netplay host"
+      "Connexion au service netplay"
       )
 MSG_HASH(
       MSG_CONNECTING_TO_PORT,
-      "Connecting to port"
+      "Connexion au port"
       )
 MSG_HASH(
       MSG_CONNECTION_SLOT,
@@ -92,7 +92,7 @@ MSG_HASH(
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ACCOUNTS_CHEEVOS_PASSWORD,
-      "Password"
+      "Mot de passe"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ACCOUNTS_CHEEVOS_SETTINGS,
@@ -100,7 +100,7 @@ MSG_HASH(
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ACCOUNTS_CHEEVOS_USERNAME,
-      "Username"
+      "Nom d'utilisateur"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ACCOUNTS_LIST,
@@ -108,20 +108,20 @@ MSG_HASH(
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ACCOUNTS_LIST_END,
-      "Accounts List Endpoint"
+      "Fin de la liste des comptes"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ACCOUNTS_RETRO_ACHIEVEMENTS,
-      "Retro Achievements"
+      "Succès Retro"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ACHIEVEMENT_LIST,
-      "Achievement List"
+      "Liste des succès"
       )
 
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ACHIEVEMENT_LIST_HARDCORE,
-      "Achievement List (Hardcore)"
+      "Liste des succès (Difficile)"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_ADD_CONTENT_LIST,
@@ -229,11 +229,11 @@ MSG_HASH(
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_CONTROLS_BACK,
-      "Back"
+      "Annuler"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_CONTROLS_CONFIRM,
-      "Confirm"
+      "Confirmer"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_CONTROLS_INFO,
@@ -241,15 +241,15 @@ MSG_HASH(
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_CONTROLS_QUIT,
-      "Quit"
+      "Quitter"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_CONTROLS_SCROLL_DOWN,
-      "Scroll Down"
+      "Scroll Bas"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_CONTROLS_SCROLL_UP,
-      "Scroll Up"
+      "Scroll Haut"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_CONTROLS_START,
@@ -257,19 +257,19 @@ MSG_HASH(
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_CONTROLS_TOGGLE_KEYBOARD,
-      "Toggle Keyboard"
+      "Bascule clavier"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_CONTROLS_TOGGLE_MENU,
-      "Toggle Menu"
+      "Bascule Menu"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_ENUM_CONTROLS,
-      "Basic menu controls"
+      "Controle de base du menu"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_ENUM_CONTROLS_CONFIRM,
-      "Confirm/OK"
+      "Confirmer/OK"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_ENUM_CONTROLS_INFO,
@@ -277,23 +277,23 @@ MSG_HASH(
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_ENUM_CONTROLS_QUIT,
-      "Quit"
+      "Quitter"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_ENUM_CONTROLS_SCROLL_UP,
-      "Scroll Up"
+      "Scroll Haut"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_ENUM_CONTROLS_START,
-      "Defaults"
+      "Défaut"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_ENUM_CONTROLS_TOGGLE_KEYBOARD,
-      "Toggle Keyboard"
+      "Bascule clavier"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BASIC_MENU_ENUM_CONTROLS_TOGGLE_MENU,
-      "Toggle Menu"
+      "Bascule Menu"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BLOCK_SRAM_OVERWRITE,
@@ -301,7 +301,7 @@ MSG_HASH(
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BLUETOOTH_ENABLE,
-      "Bluetooth Enable"
+      "Bluetooth actif"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_BUILDBOT_ASSETS_URL,
@@ -333,11 +333,11 @@ MSG_HASH(
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_CHEAT_FILE,
-      "Cheat File"
+      "Fichier triche"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_CHEAT_FILE_LOAD,
-      "Load Cheat File"
+      "Charger fichier de triche"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_CHEAT_FILE_SAVE_AS,
@@ -357,11 +357,11 @@ MSG_HASH(
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_CHEEVOS_LOCKED_ACHIEVEMENTS,
-      "Locked Achievements:"
+      "Succès verrouillés:"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_CHEEVOS_LOCKED_ENTRY,
-      "Locked"
+      "Verrouillé"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_CHEEVOS_SETTINGS,
@@ -373,11 +373,11 @@ MSG_HASH(
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_CHEEVOS_UNLOCKED_ACHIEVEMENTS,
-      "Unlocked Achievements:"
+      "Succés débloqués:"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_CHEEVOS_UNLOCKED_ENTRY,
-      "Unlocked"
+      "Débloqué"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_CLOSE_CONTENT,
@@ -385,11 +385,11 @@ MSG_HASH(
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_CONFIG,
-      "Config"
+      "Configuration"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_CONFIGURATIONS,
-      "Load Configuration"
+      "Charger configuration"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_CONFIGURATION_SETTINGS,
@@ -405,7 +405,7 @@ MSG_HASH(MENU_ENUM_LABEL_VALUE_CONTENT_DATABASE_DIRECTORY,
       "Dossier des bases de données de contenus")
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_CONTENT_DIR,
-      "Content"
+      "Contenu"
       )
 MSG_HASH(
       MENU_ENUM_LABEL_VALUE_CONTENT_HISTORY_SIZE,
@@ -455,7 +455,7 @@ MSG_HASH(MENU_ENUM_LABEL_VALUE_CORE_SETTINGS,
 MSG_HASH(MENU_ENUM_LABEL_VALUE_CORE_SET_SUPPORTS_NO_CONTENT_ENABLE,
       "Ne pas démarrer de coeur automatiquement")
 MSG_HASH(MENU_ENUM_LABEL_VALUE_CORE_SPECIFIC_CONFIG,
-      "Avoir une configuration par-coeur")
+      "Avoir une configuration par coeur")
 MSG_HASH(MENU_ENUM_LABEL_VALUE_CORE_UPDATER_AUTO_EXTRACT_ARCHIVE,
       "Extraire automatiquement")
 MSG_HASH(MENU_ENUM_LABEL_VALUE_CORE_UPDATER_BUILDBOT_URL,
